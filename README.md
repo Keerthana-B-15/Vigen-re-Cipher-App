@@ -46,7 +46,7 @@ The Vigenère cipher is a method of encrypting text using a series of Caesar cip
 ## 🚀 Deployment
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/vigenere-cipher-app.git](https://github.com/Keerthana-B-15/Vigen-re-Cipher-App)
+   https://github.com/Keerthana-B-15/Vigen-re-Cipher-App
    cd vigenere-cipher-app
    ```
 
